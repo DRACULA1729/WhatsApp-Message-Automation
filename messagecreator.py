@@ -4,3 +4,4 @@ with open ('message.txt', 'w') as f:
     n= int(input("Enter the number of times you want to send: ")
     for i in range (n):
         f.write(I +"\n")
+
